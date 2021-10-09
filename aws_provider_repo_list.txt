@@ -1,2 +1,2 @@
-terraform-aws-vpc=https://github.com/terraform-aws-modules/terraform-aws-vpc:aws,terraform-module,vpc,terraform
-terraform-aws-rds=https://github.com/terraform-aws-modules/terraform-aws-rds:aws,rds,terraform,terraform-module
+terraform-aws-vpc|https://github.com/terraform-aws-modules/terraform-aws-vpc|aws,terraform-module,vpc,terraform
+terraform-aws-rds|https://github.com/terraform-aws-modules/terraform-aws-rds|aws,rds,terraform,terraform-module
